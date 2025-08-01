@@ -1,1 +1,1 @@
-# Demo
+The Insurance Management System is a web-based application designed to streamline and automate various aspects of the insurance lifecycle — from user registration, policy purchase, and premium payment, to claims management and reporting. This system benefits both insurance companies and customers by offering a secure, efficient, and user-friendly platform to manage insurance policies.
